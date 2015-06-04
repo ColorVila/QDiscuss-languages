@@ -1,7 +1,7 @@
 QDiscuss-languages
 ====================
 
-For supporting the Muti-languages, we create this  translation  project for [QDiscuss](https://wordpress.org/plugins/qdiscuss/).
+For supporting the Muti-languages, we create this  translation  project for [QDiscuss](http://colorvila.com/qdiscuss-plugin/).
 
 
 ### How to Translate
