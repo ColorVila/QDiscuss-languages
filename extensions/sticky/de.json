@@ -1,7 +1,7 @@
 {
-	"stickied": "stickied",
-	"unstickied": "unstickied",
-	"Sticky": "Sticky",
-	"Unsticky": "Anheftung Lösen",
-	"SomeoneStickiesADiscussionIStarted": "Someone stickies a discussion I started",
+	"stickied": "angeheftet",
+	"unstickied": "Anheftung L\u00f6sen",
+	"Sticky": "Anheftung",
+	"Unsticky": "Anheftung L\u00f6sen",
+	"SomeoneStickiesADiscussionIStarted": "Erlaube eine von dir erstellte Dikussion anzuheften"
 }
