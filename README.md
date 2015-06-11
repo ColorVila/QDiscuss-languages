@@ -5,7 +5,7 @@ For supporting the Muti-languages, we create this  translation  project for [QDi
 
 ### Change Log
 
-**2015-6-11: **
+** 2015-6-11: **
 
 1. Add German Language: https://github.com/ColorVila/QDiscuss-languanges/commit/a3ca6a5d82f3b90bdd17d7c0e39429ef7f790677
 
@@ -26,7 +26,7 @@ We are glad to see you can contribute this project, let us see your translation 
 
 #### Contributor List
 
-[pette87](https://github.com/pette87)
+1. [pette87](https://github.com/pette87)
 
 This project released under the [GPLV2 license](https://github.com/ColorVila/QDiscuss-languanges/blob/master/license.txt).
 
