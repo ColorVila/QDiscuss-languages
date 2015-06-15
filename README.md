@@ -8,9 +8,13 @@ For supporting the Muti-languages, we create this  translation  project for [QDi
 2015-6-15
 
 1. Update German Languange: 
+
 https://github.com/ColorVila/QDiscuss-languanges/commit/441cdce143584bbe7931a8a56bf94b1545e587d7
+
 https://github.com/ColorVila/QDiscuss-languanges/commit/cc4e25ed407582ba9362e882792550fe60a04cc4
+
 https://github.com/ColorVila/QDiscuss-languanges/commit/df626a89429c089e8666dbb4c6cab628bcdfc337
+
 https://github.com/ColorVila/QDiscuss-languanges/commit/d61b76aa33e8dab906a3a5cf1ae9dbc7c32bc7d2
 
 
