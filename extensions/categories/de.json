@@ -1,11 +1,11 @@
 {
 	"Categories": "Kategorien",
-	"Category": "Category",
+	"Category": "Kategorie",
 	"Move": "Verschieben",
-	"categories": "Categories",
-	"Uncategorized": "Ohne Kategorie",
-	"uncategorized": "uncategorized",
-	"movedthediscussion": "moved the discussion",
-	"movedto": "moved to",
-	"SomeoneMovesADiscussionIStarted": "Someone moves a discussion I started",
+	"categories": "Kategorien",
+	"Uncategorized": "Unkategorisiert",
+	"uncategorized": "unkategorisiert",
+	"movedthediscussion": "verschoben zum Thema",
+	"movedto": "verschoben nach",
+	"SomeoneMovesADiscussionIStarted": "Erlaube eine von dir erstellte Dikussion zu verschieben"
 }
