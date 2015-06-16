@@ -5,24 +5,22 @@ For supporting the Muti-languages, we create this  translation  project for [QDi
 
 ### Change Log
 
+2015-06-16
+
+[Add en.json files of Search and Markdown extensions](https://github.com/ColorVila/QDiscuss-languanges/commit/34b6708df905b09b6cf90c4b0208bcca4cdc06b5)
+
 2015-6-15
 
-1. Update German Languange: 
+[New de.json file from pette87](https://github.com/ColorVila/QDiscuss-languanges/commit/441cdce143584bbe7931a8a56bf94b1545e587d7)
 
-https://github.com/ColorVila/QDiscuss-languanges/commit/441cdce143584bbe7931a8a56bf94b1545e587d7
+[Add Categories de.json file from pette87](https://github.com/ColorVila/QDiscuss-languanges/commit/cc4e25ed407582ba9362e882792550fe60a04cc4)
 
-https://github.com/ColorVila/QDiscuss-languanges/commit/cc4e25ed407582ba9362e882792550fe60a04cc4
-
-https://github.com/ColorVila/QDiscuss-languanges/commit/df626a89429c089e8666dbb4c6cab628bcdfc337
-
-https://github.com/ColorVila/QDiscuss-languanges/commit/d61b76aa33e8dab906a3a5cf1ae9dbc7c32bc7d2
+[Add Sticky de.json file from pette87](https://github.com/ColorVila/QDiscuss-languanges/commit/d61b76aa33e8dab906a3a5cf1ae9dbc7c32bc7d2)
 
 
 2015-6-11
 
-1. Add German Language: 
-https://github.com/ColorVila/QDiscuss-languanges/commit/a3ca6a5d82f3b90bdd17d7c0e39429ef7f790677
-
+[Add German Language: from pette87 ](https://github.com/ColorVila/QDiscuss-languanges/commit/a3ca6a5d82f3b90bdd17d7c0e39429ef7f790677)
 
 ### How to Translate
 
