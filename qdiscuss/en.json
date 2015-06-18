@@ -100,5 +100,6 @@
 	"Alert": "Alert",
 	"Privacy": "Privacy",
 	"SomeoneRenamesADiscussionIStarted": "Someone renames a discussion I started",
-	"AllowOthersToSeeWhenIAmOnline": "Allow others to see when I am online"
+	"AllowOthersToSeeWhenIAmOnline": "Allow others to see when I am online",
+        	"K": "K"
 }
