@@ -5,6 +5,10 @@ For supporting the Muti-languages, we create this  translation  project for [QDi
 
 ### Change Log
 
+2015-06-18
+
+[Add Simplified Chinese translations from martianyi](https://github.com/ColorVila/QDiscuss-languanges/commit/60dfdab1ed435165f946d65aa9320b342763f530)
+
 2015-06-16
 
 [Add en.json files of Search and Markdown extensions](https://github.com/ColorVila/QDiscuss-languanges/commit/34b6708df905b09b6cf90c4b0208bcca4cdc06b5)
@@ -36,9 +40,10 @@ Each extension maybe have words need to be translated too, so much like the tran
 
 We are glad to see you can contribute this project, let us see your translation work in here. :). If you have some questions, please visit our [support forum](http://colorvila.com/qdiscuss).
 
-#### Contributor List
+#### Contributors List
 
-1. [pette87](https://github.com/pette87)
+[pette87](https://github.com/pette87)
+[martianyi](https://github.com/martianyi)
 
 This project released under the [GPLV2 license](https://github.com/ColorVila/QDiscuss-languanges/blob/master/license.txt).
 
