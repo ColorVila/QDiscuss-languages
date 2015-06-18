@@ -43,6 +43,7 @@ We are glad to see you can contribute this project, let us see your translation 
 #### Contributors List
 
 [pette87](https://github.com/pette87)
+
 [martianyi](https://github.com/martianyi)
 
 This project released under the [GPLV2 license](https://github.com/ColorVila/QDiscuss-languanges/blob/master/license.txt).
