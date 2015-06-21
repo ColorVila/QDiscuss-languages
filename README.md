@@ -3,28 +3,14 @@ QDiscuss-languages
 
 For supporting the Muti-languages, we create this  translation  project for [QDiscuss](http://colorvila.com/qdiscuss-plugin/).
 
-### Change Log
+### Update
 
-2015-06-18
+| Date				| Author			| Description											 |
+| ----------------- | ----------------- | ------------------------------------------------------ |
+| 2015-06-18		| [martianyi](https://github.com/martianyi)			| [Add Simplified Chinese translations](https://github.com/ColorVila/QDiscuss-languanges/commit/60dfdab1ed435165f946d65aa9320b342763f530)			 |
+| 2015-06-15		| [pette87](https://github.com/pette87) 			| [New de.json file](https://github.com/ColorVila/QDiscuss-languanges/commit/441cdce143584bbe7931a8a56bf94b1545e587d7), add [categoreis] and [sticky](https://github.com/ColorVila/QDiscuss-languanges/commit/d61b76aa33e8dab906a3a5cf1ae9dbc7c32bc7d2) de.json file 	                     |
+| 2015-06-11        | [pette87](https://github.com/pette87)  | [Add German Language](https://github.com/ColorVila/QDiscuss-languanges/commit/a3ca6a5d82f3b90bdd17d7c0e39429ef7f790677)
 
-[Add Simplified Chinese translations from martianyi](https://github.com/ColorVila/QDiscuss-languanges/commit/60dfdab1ed435165f946d65aa9320b342763f530)
-
-2015-06-16
-
-[Add en.json files of Search and Markdown extensions](https://github.com/ColorVila/QDiscuss-languanges/commit/34b6708df905b09b6cf90c4b0208bcca4cdc06b5)
-
-2015-6-15
-
-[New de.json file from pette87](https://github.com/ColorVila/QDiscuss-languanges/commit/441cdce143584bbe7931a8a56bf94b1545e587d7)
-
-[Add Categories de.json file from pette87](https://github.com/ColorVila/QDiscuss-languanges/commit/cc4e25ed407582ba9362e882792550fe60a04cc4)
-
-[Add Sticky de.json file from pette87](https://github.com/ColorVila/QDiscuss-languanges/commit/d61b76aa33e8dab906a3a5cf1ae9dbc7c32bc7d2)
-
-
-2015-6-11
-
-[Add German Language: from pette87 ](https://github.com/ColorVila/QDiscuss-languanges/commit/a3ca6a5d82f3b90bdd17d7c0e39429ef7f790677)
 
 ### How to Translate
 
