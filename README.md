@@ -8,7 +8,7 @@ For supporting the Muti-languages, we create this  translation  project for [QDi
 | Date				| Author			| Description											 |
 | ----------------- | ----------------- | ------------------------------------------------------ |
 | 2015-06-18		| [martianyi](https://github.com/martianyi)			| [Add Simplified Chinese translations](https://github.com/ColorVila/QDiscuss-languanges/commit/60dfdab1ed435165f946d65aa9320b342763f530)			 |
-| 2015-06-15		| [pette87](https://github.com/pette87) 			| [New de.json file](https://github.com/ColorVila/QDiscuss-languanges/commit/441cdce143584bbe7931a8a56bf94b1545e587d7), add [categoreis] and [sticky](https://github.com/ColorVila/QDiscuss-languanges/commit/d61b76aa33e8dab906a3a5cf1ae9dbc7c32bc7d2) de.json file 	                     |
+| 2015-06-15		| [pette87](https://github.com/pette87) 			| [New de.json file](https://github.com/ColorVila/QDiscuss-languanges/commit/441cdce143584bbe7931a8a56bf94b1545e587d7), add [categoreis](https://github.com/ColorVila/QDiscuss-languanges/commit/df626a89429c089e8666dbb4c6cab628bcdfc337) and [sticky](https://github.com/ColorVila/QDiscuss-languanges/commit/d61b76aa33e8dab906a3a5cf1ae9dbc7c32bc7d2) de.json file 	                     |
 | 2015-06-11        | [pette87](https://github.com/pette87)  | [Add German Language](https://github.com/ColorVila/QDiscuss-languanges/commit/a3ca6a5d82f3b90bdd17d7c0e39429ef7f790677)
 
 
